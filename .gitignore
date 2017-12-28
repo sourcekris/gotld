@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# tmp
+data.go.new
+
 # Folders
 _obj
 _test
