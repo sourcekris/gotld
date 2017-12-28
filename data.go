@@ -8454,7 +8454,7 @@ func initTld() {
 	tldMap["xn--mgbayh7gpa"] = TldItem{Tld: "الاردن"}
 	tldMap["xn--mgbb9fbpob"] = TldItem{Tld: "موبايلي"}
 	tldMap["xn--mgbbh1a"] = TldItem{Tld: ".بارت"}
-  tldMap[".بارت"] = TldItem{Tld: ".بارت"}
+	tldMap[".بارت"] = TldItem{Tld: ".بارت"}
 	tldMap["xn--mgbbh1a71e"] = TldItem{Tld: "بھارت"}
 	tldMap["xn--mgbc0a9azcg"] = TldItem{Tld: "المغرب"}
 	tldMap["xn--mgbca7dzdo"] = TldItem{Tld: "ابوظبي"}
